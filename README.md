@@ -99,7 +99,7 @@ pytest
 
 ## Where it goes from here
 
-This is the teaching-sized version. The production-grade version of the same idea - utility scoring, replay, a background self-review that proposes what to keep, gated self-modification - lives in [Synthax](https://github.com/alxsidr/synthax), where OODAA is the only loop the whole system runs. Start here to understand the shape; go there to see it carry real weight.
+This is the teaching-sized version. The same idea scales up - utility scoring, replay, a background review that proposes what to keep, gated self-modification - once you make Adjust do real work. Start here for the shape; grow each phase as your problem demands.
 
 ## License
 
