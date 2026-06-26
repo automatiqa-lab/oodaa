@@ -10,9 +10,9 @@ The value update is the smallest thing that counts as learning:
     value <- value + lr * (reward - value)
 
 an incremental average that drifts toward whatever reward an action actually
-earns in a given situation. Synthax does the heavyweight version of this
-(utility scores, replay, a background self-review that proposes what to keep);
-this is that idea with the machinery taken out so you can see the shape of it.
+earns in a given situation. A production loop layers more on top - utility
+scores, replay, a background review that proposes what to keep - but this is the
+idea with the machinery taken out so you can see the shape of it.
 """
 
 from __future__ import annotations
