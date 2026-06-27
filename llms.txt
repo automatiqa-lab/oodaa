@@ -1,0 +1,17 @@
+# oodaa
+
+> A small, readable self-improving agent loop. Observe, Orient, Decide, Act, and the second A - Adjust - which scores each outcome and folds it into memory so the agent gets smarter across runs instead of only faster within one.
+
+oodaa is the runnable companion to the essay "Boyd's Loop Was Built for Pilots, Agentic AI Needs OODAA". The core is the Python standard library with zero dependencies, and the model is a seam rather than a dependency: wrap any LLM in one completion function, and a failed or illegal call degrades to random exploration. Part of Automatiqa Lab.
+
+## Docs
+- [README](https://github.com/automatiqa-lab/oodaa/blob/main/README.md): what it is, the five phases mapped to the code, the supply-chain example
+- [The essay](https://alxsidr.io/boyds-loop-was-built-for-pilots-agentic-ai-needs-oodaa/): the argument in long form
+
+## Examples
+- [offline_grid.py](https://github.com/automatiqa-lab/oodaa/blob/main/examples/offline_grid.py): a 4x4 grid agent that learns the shortest path with no API key
+- [ops_triage.py](https://github.com/automatiqa-lab/oodaa/blob/main/examples/ops_triage.py): the same loop over a stream of TMS, ERP, and WMS incidents
+
+## More
+- [Automatiqa Lab](https://www.automati.qa/oodaa/): the project page
+- [Synthax](https://github.com/automatiqa-lab/synthax): the production-grade version of the same idea

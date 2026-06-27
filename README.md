@@ -9,6 +9,8 @@ Observe, Orient, Decide, Act - and then the second A, Adjust. The phase that mak
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](pyproject.toml)
 
+Part of [Automatiqa Lab](https://www.automati.qa/oodaa/) - open-source experiments where operations meet the algorithm.
+
 </div>
 
 ---

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: oodaa
+abstract: "A small, readable self-improving agent loop (OODAA: Observe, Orient, Decide, Act, Adjust) - the Adjust phase scores each outcome and folds it into memory so an agent improves across runs."
+type: software
+authors:
+  - family-names: Sidorecs
+    given-names: Aleks
+repository-code: "https://github.com/automatiqa-lab/oodaa"
+url: "https://www.automati.qa/oodaa/"
+license: MIT
+keywords:
+  - agents
+  - ooda
+  - oodaa
+  - self-improvement
+  - reinforcement-learning
+  - supply-chain
+date-released: 2026-06-26
