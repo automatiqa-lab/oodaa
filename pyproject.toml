@@ -5,7 +5,7 @@ description = "Self-Improvement Framework for Supply Chain Agents"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Aleks Sidorecs" }]
+authors = [{ name = "Automatiqa Lab by Aleks Sidorecs", email = "automate@automati.qa" }]
 keywords = ["agents", "ooda", "oodaa", "supply-chain", "reinforcement", "self-improvement"]
 dependencies = []
 

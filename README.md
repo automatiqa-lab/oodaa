@@ -106,3 +106,7 @@ This is the teaching-sized version. The same idea scales up - utility scoring, r
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+Automatiqa Lab by Aleks Sidorecs · automate@automati.qa
