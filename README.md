@@ -9,7 +9,7 @@ Observe, Orient, Decide, Act - and then the second A, Adjust. The phase that mak
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](pyproject.toml)
 
-Part of [Automatiqa Lab](https://www.automati.qa/oodaa/) - open-source experiments where operations meet the algorithm.
+Part of [Automatiqa Lab](https://www.automatiqa.io/oodaa/) - open-source experiments where operations meet the algorithm.
 
 </div>
 
@@ -71,7 +71,7 @@ result = loop.run(my_task)        # run it again and it decides better
 
 ## A supply-chain example
 
-`oodaa` was built for the [automati.qa](https://www.automati.qa) lab, where the loops drive operational decisions. [`examples/ops_triage.py`](examples/ops_triage.py) runs the same machinery on a stream of incidents - a TMS shipment past its SLA, an ERP invoice blocked on a price variance, a WMS count gone negative. Each has a right first response the agent has to learn.
+`oodaa` was built for the [automatiqa.io](https://www.automatiqa.io) lab, where the loops drive operational decisions. [`examples/ops_triage.py`](examples/ops_triage.py) runs the same machinery on a stream of incidents - a TMS shipment past its SLA, an ERP invoice blocked on a price variance, a WMS count gone negative. Each has a right first response the agent has to learn.
 
 ```bash
 python examples/ops_triage.py
@@ -109,4 +109,4 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
-Automatiqa Lab by Aleks Sidorecs · automate@automati.qa
+Automatiqa Lab by Aleks Sidorecs · automate@automatiqa.io
