@@ -109,4 +109,4 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
-Automatiqa Lab by Aleks Sidorecs · automate@automatiqa.io
+Automatiqa Lab by Aleks Sidorecs · aleks@automatiqa.io
