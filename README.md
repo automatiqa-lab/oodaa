@@ -21,7 +21,7 @@ Boyd's OODA loop was built for fighter pilots. Observe, Orient, Decide, Act, rep
 
 Agents do not. An agent that runs OODA makes faster decisions, not better ones - it repeats the same mistake at machine speed because nothing carries the lesson forward. The fix is one more phase. After acting, **Adjust**: score what happened and update how you decide next time. OODA gets faster. OODAA gets smarter. That difference is the whole repo.
 
-The argument in long form: [Boyd's Loop Was Built for Pilots, Agentic AI Needs OODAA](https://alxsidr.io/boyds-loop-was-built-for-pilots-agentic-ai-needs-oodaa/). This is that essay made runnable - small enough to read in one sitting, real enough to build on.
+The argument in long form: [Boyd's Loop Was Built for Pilots, Agentic AI Needs OODAA](https://www.automatiqa.io/boyds-loop-was-built-for-pilots-agentic-ai-needs-oodaa/). This is that essay made runnable - small enough to read in one sitting, real enough to build on.
 
 ## See it learn
 
